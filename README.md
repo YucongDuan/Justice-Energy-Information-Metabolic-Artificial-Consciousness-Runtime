@@ -1,9 +1,11 @@
 # DIKWP-TIANHENG-AC v1.0.0
 
-**DIKWP-天衡：正义-能量-信息价值代谢人工意识系统**  
-**Justice-Energy-Information Metabolic Artificial Consciousness Runtime**
+Created by Yucong Duan (段玉聪).
 
-TIANHENG is a generic, runnable candidate artificial-consciousness architecture. It does **not** treat model self-approval or predicted user satisfaction as final authority. It combines:
+DIKWP-天衡：正义-能量-信息价值代谢人工意识系统  
+Justice-Energy-Information Metabolic Artificial Consciousness Runtime
+
+TIANHENG is a generic, runnable candidate artificial-consciousness architecture. It does not treat model self-approval or predicted user satisfaction as final authority. It combines:
 
 - native D/I/K/W/P semantic continuity;
 - a recurrent, limited-capacity global workspace;
@@ -16,7 +18,7 @@ TIANHENG is a generic, runnable candidate artificial-consciousness architecture.
 
 ## Scientific boundary
 
-The system is a **functional artificial-consciousness candidate architecture**. It does not establish phenomenal consciousness, metaphysical TianDao, moral infallibility, or literal creation of physical energy from information.
+The system is a functional artificial-consciousness candidate architecture. It does not establish phenomenal consciousness, metaphysical TianDao, moral infallibility, or literal creation of physical energy from information.
 
 ## Quick start
 
